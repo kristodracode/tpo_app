@@ -1,0 +1,2 @@
+# tpo_app
+TPO-MNNIT is an android based application that notifies all its users about upcoming companies and users can post their own interview experiences. Students can register/update their profiles through app. Information like CTC, Job Location, Job Profile, etc. will be displayed. It shows stats of current placement session like number of students placed, CTC   etc. We have used the firebase server for our app.
