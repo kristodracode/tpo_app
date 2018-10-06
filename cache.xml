@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\a296681ca5dc8b13b508c4b2d56b35d2fe2018b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_e98e00f4343cefed58b01b3489cb9523ebbd0255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\60f6bd6544b1ca7b7fed6d6d6375b49d3ad8fa33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_156737cf7b11de5077b713f80f733f41db677744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\66cb8082b5bba38153fbd255b51ee9ff1e5058e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_1ff00b414ec7d534e9b960b7553362acfc9ed289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\af3dd1fd35decb3ceda0663aac0106128839b29b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_bcc7f7d076ea69e967162589fff5de896d0f5ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\bc9a9066d89aac4dff59c6eb1d8b655ccf52ba0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_3901ac5cc0745d073018dbed0265ba28627d3442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2cfbb268b175d75efc223ae4511426c1f86338a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\83b239eb87c755a685c135cc58ef6210176395de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_373d2dfa78fb185c48fe71ea21cb9014fc64ec96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shubham MM\.android\build-cache\334fe01b496a706bf59004e3e2ccc27ee4f64c25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\Shubham MM\AndroidStudioProjects\LoginSignup\app\build\intermediates\pre-dexed\debug\classes_20a45a9eb0b313e9f3974b5b490dba25f0fe8645.jar" />
+    </item>
+
+</items>
